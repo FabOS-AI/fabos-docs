@@ -1,5 +1,5 @@
 ---
-permalink: /docs/overview/
+permalink: /docs/getting-started/overview/
 ---
 
 # Overview

@@ -23,6 +23,13 @@ module.exports = {
                     'getting-started/overview',
                   ],
                 },
+                {
+                  title: 'Components',
+                  collapsable: false,
+                  children: [
+                    'components/',
+                  ],
+                },
               ]
           },
       },
