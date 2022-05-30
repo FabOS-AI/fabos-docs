@@ -20,7 +20,7 @@ module.exports = {
                   collapsable: false,
                   children: [
                     'getting-started/',
-                    'getting-started/overview',
+                    'getting-started/reference-architecture',
                   ],
                 },
                 {
