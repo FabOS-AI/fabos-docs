@@ -15,7 +15,6 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "axios": "^0.21.0",
     "vuepress": "^1.9.7",
     "@dovyp/vuepress-plugin-clipboard-copy": "^1.0.0-alpha.7"
   },
