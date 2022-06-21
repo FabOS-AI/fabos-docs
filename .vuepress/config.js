@@ -1,7 +1,7 @@
 module.exports = {
     title: 'FabOS',
     description: 'open, distributed, real-time capable and secure operating system for production',
-    base: '/fabos-docs/',
+    base: '/',
     themeConfig: {
           repo: 'FabOS-AI',
           logo: '/img/logo.svg',
