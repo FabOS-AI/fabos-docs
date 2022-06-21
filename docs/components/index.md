@@ -4,4 +4,4 @@ permalink: /docs/components
 
 # Components Overview
 
-[Service Lifecycle Management](https://fabos-ai.github.io/fabos-slm/docs/getting-started/)
+[Service Lifecycle Management](https://slm.docs.fab-os.org)
