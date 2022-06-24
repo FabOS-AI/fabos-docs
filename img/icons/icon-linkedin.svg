@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="24"
+   height="24"
+   viewBox="0 -0.268 24 24"
+   enable-background="new 0 -0.268 171 171"
+   xml:space="preserve"
+   id="svg20"
+   sodipodi:docname="linkedin_single_col.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview22"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   showguides="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="10.210526"
+   inkscape:cx="-7.8350514"
+   inkscape:cy="18.559278"
+   inkscape:window-width="1555"
+   inkscape:window-height="1095"
+   inkscape:window-x="534"
+   inkscape:window-y="169"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg20" />
+<defs
+   id="defs2">
+</defs>
+<rect
+   fill="#003B53"
+   width="24"
+   height="24"
+   id="rect4"
+   style="fill:#39b4e3;fill-opacity:1;stroke-width:0.141111"
+   x="0"
+   y="-0.26800001" />
+<polygon
+   fill="#ffffff"
+   points="63.659,125.129 63.659,82.705 63.659,71.676 44.947,71.676 44.947,85.862 44.947,125.129 "
+   id="polygon6"
+   transform="matrix(0.1411109,0,0,0.1411109,0,-0.26800226)" />
+<g
+   id="g18"
+   transform="matrix(0.1411109,0,0,0.1411109,0,-0.26800226)">
+	<defs
+   id="defs9">
+		<rect
+   id="SVGID_1_"
+   width="170.07899"
+   height="170.07899"
+   x="0"
+   y="0" />
+	</defs>
+	<clipPath
+   id="SVGID_2_">
+		<use
+   xlink:href="#SVGID_1_"
+   overflow="visible"
+   id="use11"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+	</clipPath>
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#ffffff"
+   d="m 54.303,44.948 c -5.166,0 -9.356,4.188 -9.356,9.354 0,5.167 4.19,9.355 9.356,9.355 5.167,0 9.355,-4.188 9.355,-9.355 10e-4,-5.166 -4.188,-9.354 -9.355,-9.354"
+   id="path14" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#ffffff"
+   d="m 124.723,88.089 c -1.269,-10.077 -5.895,-16.414 -19.518,-16.414 -8.078,0 -13.505,3.001 -15.723,7.213 h -0.23 V 71.675 H 74.35 v 10.256 43.197 H 89.928 V 98.636 c 0,-6.989 1.319,-13.752 9.96,-13.752 8.517,0 9.203,7.987 9.203,14.202 v 26.043 h 16.038 V 95.755 h 0.003 c 0,-2.739 -0.113,-5.305 -0.409,-7.666"
+   id="path16" />
+</g>
+<rect
+   style="fill:#004164;fill-opacity:1"
+   id="rect855"
+   width="1.6620654"
+   height="0.27701089"
+   x="6.1634927"
+   y="-8.0935583" /></svg>
