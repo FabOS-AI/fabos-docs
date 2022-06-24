@@ -16,11 +16,12 @@ module.exports = {
           sidebar: {
               '/docs/': [
                 {
-                  title: 'Getting Started',
+                  title: 'Overview',
                   collapsable: false,
                   children: [
-                    'getting-started/',
-                    'getting-started/reference-architecture',
+                    'overview/',
+                    'overview/vision',
+                    'overview/reference-architecture',
                   ],
                 },
                 {

@@ -3,7 +3,7 @@ home: true
 metaTitle: FabOS Docs
 heroImage: /img/logo.svg
 actionText: Getting started →
-actionLink: /docs/getting-started/
+actionLink: /docs/overview
 features:
   - title: Open
     details: >
