@@ -22,6 +22,7 @@ module.exports = {
                     'overview/',
                     'overview/vision',
                     'overview/reference-architecture',
+                    'overview/faq',
                   ],
                 },
                 {
