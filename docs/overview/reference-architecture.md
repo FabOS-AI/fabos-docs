@@ -1,5 +1,5 @@
 ---
-permalink: /docs/overview/reference-architecture
+permalink: /docs/overview/reference-architecture/
 ---
 
 # Reference Architecture
