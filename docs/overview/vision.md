@@ -4,7 +4,7 @@ permalink: /docs/overview/vision/
 
 # Vision
 
-<style>
+<style scoped>
 table, th, td, tr {
    border: none!important;
    border-collapse: collapse;

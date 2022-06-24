@@ -4,7 +4,7 @@ permalink: /docs/overview/contact/
 
 # Contact
 
-<style>
+<style scoped>
 table, th, td, tr {
    border: none!important;
    border-collapse: collapse;
