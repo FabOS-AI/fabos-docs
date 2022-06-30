@@ -25,3 +25,8 @@ Run documentation:
 npm run
 ```
 It will start a webserver providing the local version of the documentation. When a file is changed or added, it should be automatically detected and the hosted documentation should be updated.
+
+### Hints
+
+* Add new content in the `docs` directory or a appropriate  sub-directory.
+* New items in the sidebar or plugins can be added in the file `.vuepress/config.js`.
