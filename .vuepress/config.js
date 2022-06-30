@@ -33,6 +33,13 @@ module.exports = {
                     'components/',
                   ],
                 },
+                {
+                  title: 'Development',
+                  collapsable: false,
+                  children: [
+                    'development/developers',
+                  ],
+                },
               ]
           },
       },
