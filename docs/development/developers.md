@@ -1,5 +1,5 @@
 ---
-permalink: /docs/development/developers/
+permalink: /docs/development/documentation/
 ---
 
 # Documentation
