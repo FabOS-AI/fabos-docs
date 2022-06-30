@@ -28,5 +28,5 @@ It will start a webserver providing the local version of the documentation. When
 
 ### Hints
 
-* Add new content in the `docs` directory or a appropriate  sub-directory.
+* Add new content in the `docs` directory or an appropriate  sub-directory.
 * New items in the sidebar or plugins can be added in the file `.vuepress/config.js`.
