@@ -37,7 +37,7 @@ module.exports = {
                   title: 'Development',
                   collapsable: false,
                   children: [
-                    'development/developers',
+                    'development/documentation',
                   ],
                 },
               ]
