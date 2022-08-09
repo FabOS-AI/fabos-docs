@@ -22,7 +22,7 @@ git clone https://github.com/FabOS-AI/fabos-docs && cd fabos-docs && npm install
 
 Run documentation:
 ```
-npm run
+npm run dev
 ```
 It will start a webserver providing the local version of the documentation. When a file is changed or added, it should be automatically detected and the hosted documentation should be updated.
 
